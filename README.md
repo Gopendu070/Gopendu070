@@ -1,10 +1,10 @@
 ▪︎ 👋 Hi, I’m @Gopendu070
 
+▪︎ Flutter Developer
+
 ▪︎ 👀 I’m interested in collaborative_coding and CP too.
 
-▪︎ 🌱 I’m currently learning Computer Science Engineer.
-
-▪︎ 💞️ I’m really eager to collaborate on developing new ideas.
+▪︎ 🌱 I’m currently learning Computer Science Engineering in University of Engineering & Management.
 
 ▪︎ 📬 You can reach me via 👉 gopendumanna@gmail.com 📧
                          OR
